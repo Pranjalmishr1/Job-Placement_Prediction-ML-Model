@@ -25,3 +25,6 @@ Job-Placement-Prediction-ML-Model/
 │ └── test.ipynb # Jupyter notebook for testing
 │
 ├── README.md # Project overview
+<img width="910" height="399" alt="image" src="https://github.com/user-attachments/assets/4112bdca-8cb7-4eb7-90b0-9be0869c97df" />
+<img width="943" height="361" alt="image" src="https://github.com/user-attachments/assets/e020b16c-2df0-4417-8f1b-85d9059b1c7b" />
+
